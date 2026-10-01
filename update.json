@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.0/app-sideload-release.apk",
-  "sha256": "b46d667cf90c6f4892dafaebf7dd95ef2906547a22bfe19a20ba0453afde5439",
+  "versionCode": 12,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.1/app-sideload-release.apk",
+  "sha256": "5eca99693ea8a7d6d940161a695c45649766ce55a7581e137f9897f2e77e5241",
   "minSdk": 26,
   "mandatory": false,
-  "releaseNotes": "Distribution officielle NMC Companion TV v1.0.0 avec mise à jour in-app autonome.",
-  "publishedAt": "2026-10-01T12:00:00Z"
+  "releaseNotes": "Correctif navigation D-pad télécommande (défilement et retour menu) dans l'écran À propos & Mentions légales.",
+  "publishedAt": "2026-10-01T15:00:00Z"
 }
