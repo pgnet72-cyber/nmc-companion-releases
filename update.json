@@ -5,6 +5,6 @@
   "sha256": "5eca99693ea8a7d6d940161a695c45649766ce55a7581e137f9897f2e77e5241",
   "minSdk": 26,
   "mandatory": false,
-  "releaseNotes": "Correctif navigation D-pad télécommande (défilement et retour menu) dans l'écran À propos & Mentions légales.",
-  "publishedAt": "2026-10-01T15:00:00Z"
+  "releaseNotes": "Mise à jour in-app autonome (ADR-030), optimisations de la recherche universelle, et correctif de la navigation D-pad dans l'écran À propos.",
+  "publishedAt": "2026-10-01T15:10:00Z"
 }
