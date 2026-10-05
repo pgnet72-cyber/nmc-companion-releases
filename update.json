@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.1/app-sideload-release.apk",
-  "sha256": "5eca99693ea8a7d6d940161a695c45649766ce55a7581e137f9897f2e77e5241",
+  "versionCode": 14,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.3/app-sideload-release.apk",
+  "sha256": "9f6ee17e6e50c4d1a963e12e178d3e85d284cf7477e28e842ca2ea110b48728e",
   "minSdk": 26,
   "mandatory": false,
-  "releaseNotes": "Mise à jour in-app autonome (ADR-030), optimisations de la recherche universelle, et correctif de la navigation D-pad dans l'écran À propos.",
-  "publishedAt": "2026-10-01T15:10:00Z"
+  "releaseNotes": "Recherche assistée par IA (plan LLM via relais Desktop) avec correctifs d'exécution, recherche vocale native NLU français, Guide TV (EPG), mise à jour in-app autonome (ADR-030), Media Registry (ADR-029), cache TMDB multi-niveaux et correctif du focus des Paramètres.",
+  "publishedAt": "2026-10-05T05:57:00Z"
 }
