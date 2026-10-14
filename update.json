@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.1/app-sideload-release.apk",
-  "sha256": "5eca99693ea8a7d6d940161a695c45649766ce55a7581e137f9897f2e77e5241",
+  "versionCode": 17,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.6/app-sideload-release.apk",
+  "sha256": "a5904802659d83de7bc1e36ec41d1e7884bbc9611ab5ce32e6e0d06132d1a973",
   "minSdk": 26,
   "mandatory": false,
-  "releaseNotes": "Mise à jour in-app autonome (ADR-030), optimisations de la recherche universelle, et correctif de la navigation D-pad dans l'écran À propos.",
-  "publishedAt": "2026-10-01T15:10:00Z"
+  "releaseNotes": "Recherche Universelle déterministe hors ligne : reconnaissance automatique du langage naturel (ex: 'films avec Russell Crowe', 'films de Ridley Scott', genres, années) sans clé API IA, affichage des badges typés et filmographie TMDB immédiate.",
+  "publishedAt": "2026-10-14T11:45:00Z"
 }
