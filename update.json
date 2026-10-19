@@ -1,10 +1,10 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.6/app-sideload-release.apk",
-  "sha256": "ac44ad5718f4955b8f4c9edfb15679e04a805afe4222faeea4d013e5c087132a",
+  "versionCode": 18,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.7/app-sideload-release.apk",
+  "sha256": "185273b6541a9482a015328160558b3e97a2565ee08a797acc57367702c6d939",
   "minSdk": 26,
   "mandatory": false,
-  "releaseNotes": "Recherche Universelle : reconnaissance en langage naturel hors ligne (acteurs, réalisateurs, genres, années) sans clé API IA et correction de la saturation mémoire (OOM) sur les grands catalogues (> 3 000 titres). Fiabilisation de la synchronisation Drive et des affiches.",
-  "publishedAt": "2026-10-15T08:35:00Z"
+  "releaseNotes": "Lecture directe Drive (P3) : streaming autonome depuis Google Drive sans dépendance au serveur PC hôte. Prise en charge des statuts 'Sur Google Drive' et 'Déporté sur Drive'. Fiabilisation de l'authentification OAuth et messages d'erreur explicites.",
+  "publishedAt": "2026-10-19T12:20:00Z"
 }

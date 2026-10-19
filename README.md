@@ -4,7 +4,7 @@
 [![Appareil de référence](https://img.shields.io/badge/Certifié-NVIDIA%20Shield%20TV%20%2F%20Pro-green?logo=nvidia)](https://www.nvidia.com/fr-fr/shield/)
 [![UI Toolkit](https://img.shields.io/badge/UI-Jetpack%20Compose%20for%20TV%20(Material%203)-4285F4?logo=jetpackcompose)](https://developer.android.com/jetpack/compose/tv)
 [![Langage](https://img.shields.io/badge/Langage-Kotlin%202.0-7F52FF?logo=kotlin)](https://kotlinlang.org/)
-[![Dernière Release](https://img.shields.io/badge/Release-v1.0.6-brightgreen)](https://github.com/pgnet72-cyber/nmc-companion-releases/releases/tag/v1.0.6)
+[![Dernière Release](https://img.shields.io/badge/Release-v1.0.7-brightgreen)](https://github.com/pgnet72-cyber/nmc-companion-releases/releases/tag/v1.0.7)
 [![Mise à jour](https://img.shields.io/badge/Mise%20à%20jour-In--App%20Autonome%20(ADR--030)-orange)](#-mise-à-jour-in-app-autonome-adr-030)
 
 **NMC Companion TV** est l'application client native officielle pour **Android TV**, **Google TV** et **NVIDIA Shield TV** de l'écosystème **Nebula Media Center (NMC)**.
