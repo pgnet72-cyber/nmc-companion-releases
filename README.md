@@ -4,7 +4,7 @@
 [![Appareil de référence](https://img.shields.io/badge/Certifié-NVIDIA%20Shield%20TV%20%2F%20Pro-green?logo=nvidia)](https://www.nvidia.com/fr-fr/shield/)
 [![UI Toolkit](https://img.shields.io/badge/UI-Jetpack%20Compose%20for%20TV%20(Material%203)-4285F4?logo=jetpackcompose)](https://developer.android.com/jetpack/compose/tv)
 [![Langage](https://img.shields.io/badge/Langage-Kotlin%202.0-7F52FF?logo=kotlin)](https://kotlinlang.org/)
-[![Dernière Release](https://img.shields.io/badge/Release-v1.2.0-brightgreen)](https://github.com/pgnet72-cyber/nmc-companion-releases/releases/tag/v1.2.0)
+[![Dernière Release](https://img.shields.io/badge/Release-v1.2.1-brightgreen)](https://github.com/pgnet72-cyber/nmc-companion-releases/releases/tag/v1.2.1)
 [![Mise à jour](https://img.shields.io/badge/Mise%20à%20jour-In--App%20Autonome%20(ADR--030)-orange)](#-mise-à-jour-in-app-autonome-adr-030)
 
 **NMC Companion TV** est l'application client native officielle pour **Android TV**, **Google TV** et **NVIDIA Shield TV** de l'écosystème **Nebula Media Center (NMC)**.
@@ -165,6 +165,11 @@ NMC Companion TV est distribuée sous forme de paquet APK autonome sécurisé.
 
 ## 📄 Historique des Versions Récentes
 
+- **v1.2.1 (Code 21) :**
+  - 🎬 **Résolution automatique oEmbed des vidéos YouTube** : extraction instantanée du titre officiel (ex. *"Pourquoi 2027 va être une année décisive pour l'IA"*), de l'auteur/chaîne et de la miniature HD sans clé d'API.
+  - 🛡️ **Filtrage des identifiants de suivi** : neutralisation des paramètres de tracking (`?is=`, `?si=`) empêchant les hashs opaques de devenir des titres de vidéos.
+  - 🔔 **Abonnement direct ntfy.sh autonome** : écoute d'alertes en temps réel sur Android TV sans dépendance au serveur Desktop, avec indicateur de statut en direct dans les paramètres.
+  - 📋 **Presse-papier & actions rapides dans les alertes** : « 📋 Copier l'URL » (isolée), « 📋 Copier tout le texte », « 🎬 NMC Lecteur URL » et « ▶ Ouvrir avec app externe » sur un bandeau monocouche optimisé pour TV.
 - **v1.2.0 (Code 20) :**
   - 🎨 **Espace Apparence & Ergonomie complet** miroir de NMC Desktop :
     - 5 thèmes visuels d'ambiance (Nebula Cosmique, OLED Noir Pur, Clair Feutré Warm Slate WCAG AAA, Zénith Graphite, Pulsar Violet).

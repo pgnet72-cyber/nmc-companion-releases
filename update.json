@@ -1,10 +1,10 @@
 {
-  "versionCode": 20,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.2.0/app-sideload-release.apk",
-  "sha256": "d3e942ea0d2f7117f8f0f708ddc3b3130da9c02f3a8ad3d61435e9d8beb84245",
+  "versionCode": 21,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.2.1/app-sideload-release.apk",
+  "sha256": "efd3cd3510e4f57cda8d61ddf9e5c5bb8d13fb1c177a66bcef216888720b9269",
   "minSdk": 26,
   "mandatory": false,
-  "releaseNotes": "Mise à jour v1.2.0 : Espace Apparence & Ergonomie complet miroir de NMC Desktop. 1) 5 Thèmes visuels d'ambiance : Nebula Cosmique, OLED Noir Pur (#000000), Clair Feutré Warm Slate (#D8E2EC sans éblouissement avec contraste WCAG AAA), Zénith Graphite (#12161A gris studio) et Pulsar Violet (#0B0813 spatial). 2) 6 Couleurs d'accentuation D-pad dynamiques : Cyan Électrique, Violet Pulsar, Rose Fluo, Émeraude, Ambre, Bleu Azur appliquant une teinte immédiate aux halos de télécommande, pastilles et boutons actifs. 3) Accessibilité & Daltonisme étendu : modes Standard, Protanopie, Deutéranopie, Tritanopie et Contraste Élevé AAA. 4) Échelle d'interface TV (100% Standard, 115% Confort, 130% Grand Écran) et format des cartes entièrement fonctionnel : bascule instantanée entre Affiches Cinéma 2:3 (posters verticaux 140x200 dp) et Bannières Vidéo 16:9 (largeur 240 dp x hauteur 135 dp exacte) sur l'accueil, les films, les séries, la bibliothèque, la watchlist et la recherche avec chargement prioritaire des backdrops horizontaux. 5) Réglages de fluidité (toggle zoom 1.08x D-pad) et résolution des affiches.",
-  "publishedAt": "2026-10-21T08:25:00Z"
+  "releaseNotes": "Mise à jour v1.2.1 : 1) Résolution automatique des métadonnées YouTube (titre officiel, chaîne/auteur, miniature HD 1080p) via l'API publique oEmbed sans clé d'API. 2) Filtrage intelligent des paramètres de suivi et tracking (?is=, ?si=) évitant l'affichage d'identifiants opaques comme titres. 3) Abonnement direct ntfy.sh autonome sur Android TV sans dépendance au serveur Desktop avec statut en direct. 4) Presse-papier complet dans les alertes (« 📋 Copier l'URL », « 📋 Copier tout le texte »). 5) Actions directes monocouches : « 🎬 NMC Lecteur URL » et « ▶ Ouvrir avec app externe ». 6) Relais oEmbed côté Desktop pour l'ajout de sources de téléchargement à distance.",
+  "publishedAt": "2026-10-21T13:03:58.727Z"
 }
