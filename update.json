@@ -1,10 +1,10 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.0.7/app-sideload-release.apk",
-  "sha256": "185273b6541a9482a015328160558b3e97a2565ee08a797acc57367702c6d939",
+  "versionCode": 20,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/pgnet72-cyber/nmc-companion-releases/releases/download/v1.2.0/app-sideload-release.apk",
+  "sha256": "d3e942ea0d2f7117f8f0f708ddc3b3130da9c02f3a8ad3d61435e9d8beb84245",
   "minSdk": 26,
   "mandatory": false,
-  "releaseNotes": "Lecture directe Drive (P3) : streaming autonome depuis Google Drive sans dépendance au serveur PC hôte. Prise en charge des statuts 'Sur Google Drive' et 'Déporté sur Drive'. Fiabilisation de l'authentification OAuth et messages d'erreur explicites.",
-  "publishedAt": "2026-10-19T12:20:00Z"
+  "releaseNotes": "Mise à jour v1.2.0 : Espace Apparence & Ergonomie complet miroir de NMC Desktop. 1) 5 Thèmes visuels d'ambiance : Nebula Cosmique, OLED Noir Pur (#000000), Clair Feutré Warm Slate (#D8E2EC sans éblouissement avec contraste WCAG AAA), Zénith Graphite (#12161A gris studio) et Pulsar Violet (#0B0813 spatial). 2) 6 Couleurs d'accentuation D-pad dynamiques : Cyan Électrique, Violet Pulsar, Rose Fluo, Émeraude, Ambre, Bleu Azur appliquant une teinte immédiate aux halos de télécommande, pastilles et boutons actifs. 3) Accessibilité & Daltonisme étendu : modes Standard, Protanopie, Deutéranopie, Tritanopie et Contraste Élevé AAA. 4) Échelle d'interface TV (100% Standard, 115% Confort, 130% Grand Écran) et format des cartes entièrement fonctionnel : bascule instantanée entre Affiches Cinéma 2:3 (posters verticaux 140x200 dp) et Bannières Vidéo 16:9 (largeur 240 dp x hauteur 135 dp exacte) sur l'accueil, les films, les séries, la bibliothèque, la watchlist et la recherche avec chargement prioritaire des backdrops horizontaux. 5) Réglages de fluidité (toggle zoom 1.08x D-pad) et résolution des affiches.",
+  "publishedAt": "2026-10-21T08:25:00Z"
 }

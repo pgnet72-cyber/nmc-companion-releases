@@ -4,7 +4,7 @@
 [![Appareil de référence](https://img.shields.io/badge/Certifié-NVIDIA%20Shield%20TV%20%2F%20Pro-green?logo=nvidia)](https://www.nvidia.com/fr-fr/shield/)
 [![UI Toolkit](https://img.shields.io/badge/UI-Jetpack%20Compose%20for%20TV%20(Material%203)-4285F4?logo=jetpackcompose)](https://developer.android.com/jetpack/compose/tv)
 [![Langage](https://img.shields.io/badge/Langage-Kotlin%202.0-7F52FF?logo=kotlin)](https://kotlinlang.org/)
-[![Dernière Release](https://img.shields.io/badge/Release-v1.0.7-brightgreen)](https://github.com/pgnet72-cyber/nmc-companion-releases/releases/tag/v1.0.7)
+[![Dernière Release](https://img.shields.io/badge/Release-v1.2.0-brightgreen)](https://github.com/pgnet72-cyber/nmc-companion-releases/releases/tag/v1.2.0)
 [![Mise à jour](https://img.shields.io/badge/Mise%20à%20jour-In--App%20Autonome%20(ADR--030)-orange)](#-mise-à-jour-in-app-autonome-adr-030)
 
 **NMC Companion TV** est l'application client native officielle pour **Android TV**, **Google TV** et **NVIDIA Shield TV** de l'écosystème **Nebula Media Center (NMC)**.
@@ -165,6 +165,20 @@ NMC Companion TV est distribuée sous forme de paquet APK autonome sécurisé.
 
 ## 📄 Historique des Versions Récentes
 
+- **v1.2.0 (Code 20) :**
+  - 🎨 **Espace Apparence & Ergonomie complet** miroir de NMC Desktop :
+    - 5 thèmes visuels d'ambiance (Nebula Cosmique, OLED Noir Pur, Clair Feutré Warm Slate WCAG AAA, Zénith Graphite, Pulsar Violet).
+    - 6 couleurs d'accentuation D-pad dynamiques (Cyan, Violet, Rose, Émeraude, Ambre, Bleu) appliquant une teinte immédiate aux halos télécommande, boutons et puces actifs.
+    - 5 modes d'accessibilité et daltonisme (Standard, Protanopie, Deutéranopie, Tritanopie, Contraste Élevé AAA).
+    - Échelle d'interface TV (100% Standard, 115% Confort, 130% Grand Écran).
+    - Bascule instantanée de format des cartes : Affiches Cinéma 2:3 (140x200 dp) vs Bannières Vidéo 16:9 panoramiques (240x135 dp) avec chargement prioritaire des backdrops.
+    - Réglages de fluidité (toggle zoom D-pad 1.08x) et résolution des affiches.
+- **v1.1.0 (Code 19) :**
+  - 🌍 Gestion multi-territoires des offres JustWatch/TMDB (« Où regarder ») avec sélecteur par défaut (FR, US, UK, BE, CH, CA) et pastilles interactives.
+  - 🔍 Recherche libre enrichie par acteur/personnalité avec filmographie intégrée (ex: Shah Rukh Khan).
+  - 🎯 Résolution ciblée par année (`Alpha (2026)`, `Alpha year:2026`) avec romanisation automatique des titres originaux.
+  - ♿ Double encodage visuel (cercle vide / plein + coche) et zoom D-pad renforcé dans l'Atelier de démarrage.
+  - ☀️ Thème clair TV feutré avec contraste maximal WCAG AAA (#0B1320).
 - **v1.0.6 (Code 17) :**
   - 🧠 Moteur NLU déterministe hors ligne : reconnaissance naturelle des acteurs, réalisateurs, genres et années sans IA cloud.
   - 🚀 Activation du grand tas Dalvik (512 Mo) : élimination définitive des crashs OOM lors de l'indexation de bibliothèques massives (> 3 500 titres).
